@@ -1,5 +1,15 @@
 # Word Vault — Windows Setup Guide
 
+## What is Word Vault?
+
+Word Vault is a personal word tracking system that runs on your local computer. You type one word or many words at a time, and the system does two things depending on whether the word already exists in your collection.
+
+If the word exists, it tells you exactly which file it is saved in. If the word is new, it adds it automatically to the last active file. Each file holds a maximum of 10 words. When a file becomes full, the system creates the next file on its own and continues adding there — so your collection grows file by file without you managing anything manually.
+
+All your words are stored in plain `.txt` files inside a folder called `wordfiles` on your computer. You can open these files in Notepad at any time and read them directly. Nothing is sent to the internet. Everything stays on your machine.
+
+You use it through a simple browser window that opens on your computer — just type words into the search box and press Enter.
+
 ---
 
 ## Step 1 — Install Python
