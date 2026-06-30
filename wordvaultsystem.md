@@ -42,7 +42,7 @@
 3. Right-click → **New → Folder**
 4. Name it `WordVault`
 
-   > Example full path: `C:\Users\Imran Hossain\Documents\WordVault`
+   > Example full path: `C:\Users\Akrasian\Documents\WordVault`
 
 5. Copy `word_vault.py` (downloaded from chat) into this folder
 
@@ -60,13 +60,13 @@ Once cmd is open, you need to navigate to your `WordVault` folder using the `cd`
 Type this and press Enter (replace the path with wherever you created your folder):
 
 ```
-cd C:\Users\Imran Hossain\Documents\WordVault
+cd C:\Users\Akrasian\Documents\WordVault
 ```
 
 You will see the prompt change to show your folder:
 
 ```
-C:\Users\Imran Hossain\Documents\WordVault>
+C:\Users\Akrasian\Documents\WordVault>
 ```
 
 That means you are now inside the `WordVault` folder. All commands from here run inside it.
@@ -77,7 +77,7 @@ That means you are now inside the `WordVault` folder. All commands from here run
 cd Documents                    navigate into a subfolder one level down
 cd Documents\WordVault          navigate into a subfolder two levels down
 cd ..                           go one level up (back to the parent folder)
-cd C:\Users\Imran Hossain       navigate to any full path from anywhere
+cd C:\Users\Akrasian            navigate to any full path from anywhere
 dir                             list all files and folders in the current location
 ```
 
@@ -107,7 +107,7 @@ venv\Scripts\activate
 You will see `(venv)` appear at the start of the line:
 
 ```
-(venv) C:\Users\Imran Hossain\Documents\WordVault>
+(venv) C:\Users\Akrasian\Documents\WordVault>
 ```
 
 > You must run this activation command **every time** you open a new cmd window for this project.
@@ -163,7 +163,7 @@ Every time you want to open the app:
 1. Press `Windows key + R` → type `cmd` → press Enter
 2. Navigate to your folder:
    ```
-   cd C:\Users\Imran Hossain\Documents\WordVault
+   cd C:\Users\Akrasian\Documents\WordVault
    ```
 3. Activate the environment:
    ```
