@@ -54,7 +54,7 @@ You use it through a simple browser window that opens on your computer — just 
 
    > Example full path: `C:\Users\Akrasian\Documents\WordVault`
 
-5. Copy `word_vault.py` (downloaded from chat) into this folder
+5. Copy & Past [word_vault.py](https://github.com/iamakrasian/hudai/blob/main/word_vault.py) into this folder
 
 ---
 
