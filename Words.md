@@ -912,3 +912,811 @@ The night began with nothing more than raised voices, but by midnight a full **f
 - Etymology: Old Norse *ript* — "breach"
 - Synonyms: split, breach, estrangement
 - Antonyms: reconciliation, unity, harmony
+
+# LESSON 111
+**What's the Bright Idea? (PART 1)**
+
+The gallery's newest exhibit drew a skeptical crowd of critics. One painter's work was dismissed as **derivative** (adj.), every brushstroke borrowed from masters who came before him. Beside it hung a piece so painfully **orthodox** (adj.) in style that it might have been painted a century earlier without anyone noticing the difference. A third canvas, meant to depict city life, struck viewers as merely **pedestrian** (adj.), flat and uninspired despite its ambition. The critics grew unkind, calling the whole show **banal** (adj.), a night of **hackneyed** (adj.) ideas dressed up as innovation, and privately mocking its **trite** (adj.) attempts at profundity. Even the catalog essay, meant to elevate the work, read as **prosaic** (adj.), stripped of any real beauty in its language. By the end of the evening, one weary reviewer sighed that the entire exhibition felt as **quotidian** (adj.) as a grocery list — forgettable before the door had even closed behind her.
+
+**derivative** *(adj.)*
+- Meaning: Taken from another source, not original
+- বাংলা অর্থ: অনুকৃত, মৌলিকতাবিহীন
+- Feeling/Tone: Disappointed, dismissive, secondhand
+- Texture: Borrowed, thin, copied
+- Usage: "Critics called the sequel derivative of the first film."
+- Etymology: Latin *derivare* — "to draw off, downstream"
+- Synonyms: unoriginal, imitative, copied
+- Antonyms: original, innovative, groundbreaking
+
+**orthodox** *(adj.)*
+- Meaning: Following or conforming to what is accepted as the standard
+- বাংলা অর্থ: প্রথাগত, প্রচলিত মতানুসারী
+- Feeling/Tone: Safe, conventional, unremarkable
+- Texture: Rigid, well-worn
+- Usage: "He held orthodox views on most economic matters."
+- Etymology: Greek *ortho-* ("straight") + *doxa* ("opinion")
+- Synonyms: conventional, traditional, mainstream
+- Antonyms: unorthodox, radical, unconventional
+
+**pedestrian** *(adj.)*
+- Meaning: Lacking imagination or originality
+- বাংলা অর্থ: নিরস, কল্পনাবিহীন
+- Feeling/Tone: Flat, uninspired, tired
+- Texture: Plain, dull
+- Usage: "The film's plot was pedestrian and predictable."
+- Etymology: Latin *pedester* — "going on foot"
+- Synonyms: mundane, unimaginative, prosaic
+- Antonyms: original, inspired, imaginative
+
+**banal** *(adj.)*
+- Meaning: Lacking originality
+- বাংলা অর্থ: সাধারণ, একঘেয়ে
+- Feeling/Tone: Stale, tiresome, flat
+- Texture: Worn smooth, colorless
+- Usage: "The speech was full of banal generalities."
+- Etymology: French *banal* — "common, communal"
+- Synonyms: trite, hackneyed, unoriginal
+- Antonyms: original, fresh, novel
+
+**hackneyed** *(adj.)*
+- Meaning: Lacking originality
+- বাংলা অর্থ: বহুব্যবহৃত, ক্লিশে
+- Feeling/Tone: Overused, weary, predictable
+- Texture: Worn, threadbare
+- Usage: "The novel relied on hackneyed plot devices."
+- Etymology: From "hackney," a horse for hire, worn out from overuse
+- Synonyms: trite, banal, clichéd
+- Antonyms: original, fresh, novel
+
+**trite** *(adj.)*
+- Meaning: Lacking originality
+- বাংলা অর্থ: গতানুগতিক, তুচ্ছ
+- Feeling/Tone: Empty, overfamiliar, dull
+- Texture: Flat, smoothed-over
+- Usage: "Her trite compliments felt insincere."
+- Etymology: Latin *tritus* — "rubbed, worn"
+- Synonyms: banal, hackneyed, clichéd
+- Antonyms: original, fresh, inventive
+
+**prosaic** *(adj.)*
+- Meaning: Lacking beauty
+- বাংলা অর্থ: গদ্যময়, নীরস
+- Feeling/Tone: Plain, unromantic, flat
+- Texture: Dry, unadorned
+- Usage: "His prosaic description failed to capture the sunset's beauty."
+- Etymology: Latin *prosa* — "straightforward speech"
+- Synonyms: mundane, pedestrian, dull
+- Antonyms: poetic, lyrical, beautiful
+
+**quotidian** *(adj.)*
+- Meaning: Occurring daily, commonplace
+- বাংলা অর্থ: প্রাত্যহিক, নিত্যনৈমিত্তিক
+- Feeling/Tone: Routine, ordinary, unremarkable
+- Texture: Repetitive, familiar
+- Usage: "The quotidian routine of the office rarely varied."
+- Etymology: Latin *quotidianus* — "daily"
+- Synonyms: everyday, mundane, routine
+- Antonyms: extraordinary, rare, exceptional
+
+---
+
+# LESSON 112
+**What's the Bright Idea? (PART 2)**
+
+In the smoke-filled café where the art world's rebels gathered, a young sculptor was celebrated for her **pioneering** (adj.) technique, welding scrap metal into forms no one had dared attempt before. She belonged, proudly, to the **avant-garde** (n.), a loose fellowship of painters and poets determined to burn down every old rule of taste. Among them sat a **maverick** (n.) architect who refused to design a single building the way his professors had taught him. Critics called him a **visionary** (n.), someone whose sketches seemed to belong to a future no one else could see yet. His methods were entirely **unconventional** (n.), rejecting blueprints altogether in favor of instinct and clay models. Not everyone approved — an old professor in the corner muttered that the whole café was full of dangerous **radical** (n.) thinkers who mistook shock for substance. But the young artists only laughed, raising their glasses to ideas the world hadn't caught up with yet.
+
+**pioneering** *(adj.)*
+- Meaning: Using new ways or methods
+- বাংলা অর্থ: অগ্রণী, পথিকৃৎ
+- Feeling/Tone: Bold, forward-looking, energetic
+- Texture: Fresh, untested, sharp
+- Usage: "Her pioneering research changed the field forever."
+- Etymology: French *pionnier* — "foot soldier"
+- Synonyms: innovative, groundbreaking, trailblazing
+- Antonyms: conventional, derivative, traditional
+
+**avant-garde** *(n.)*
+- Meaning: Those who create the newest ideas, typically in the arts
+- বাংলা অর্থ: অগ্রগামী শিল্পীগোষ্ঠী
+- Feeling/Tone: Rebellious, experimental, daring
+- Texture: Sharp-edged, unpolished, radical
+- Usage: "The gallery showcased works from the city's avant-garde."
+- Etymology: French — "vanguard, advance guard"
+- Synonyms: vanguard, innovators, trailblazers
+- Antonyms: traditionalists, conservatives
+
+**maverick** *(n.)*
+- Meaning: A person known for having unorthodox views
+- বাংলা অর্থ: প্রথাবিরোধী ব্যক্তি
+- Feeling/Tone: Independent, defiant, admired
+- Texture: Rugged, unbound
+- Usage: "The company's founder was a maverick who ignored industry norms."
+- Etymology: From Samuel Maverick, a Texas rancher who didn't brand his cattle
+- Synonyms: nonconformist, rebel, iconoclast
+- Antonyms: conformist, traditionalist
+
+**visionary** *(n.)*
+- Meaning: One known for having pioneering ideas
+- বাংলা অর্থ: দূরদর্শী ব্যক্তি
+- Feeling/Tone: Inspired, forward-seeing, admired
+- Texture: Expansive, luminous
+- Usage: "She was regarded as a visionary in renewable energy."
+- Etymology: Latin *videre* — "to see"
+- Synonyms: innovator, dreamer, pioneer
+- Antonyms: skeptic, traditionalist
+
+**unconventional** *(n.)*
+- Meaning: Not typical or ordinary
+- বাংলা অর্থ: অপ্রচলিত, ব্যতিক্রমী
+- Feeling/Tone: Free-spirited, unusual, bold
+- Texture: Irregular, untamed
+- Usage: "His unconventional methods raised eyebrows but got results."
+- Etymology: *un-* + *conventional* (Latin *conventio*, "agreement")
+- Synonyms: unorthodox, atypical, offbeat
+- Antonyms: conventional, orthodox, traditional
+
+**radical** *(n.)*
+- Meaning: Someone with extreme views, often of a political nature
+- বাংলা অর্থ: চরমপন্থী
+- Feeling/Tone: Intense, uncompromising, controversial
+- Texture: Sharp, disruptive
+- Usage: "The radical called for a complete overhaul of the system."
+- Etymology: Latin *radix* — "root"
+- Synonyms: extremist, revolutionary, zealot
+- Antonyms: moderate, conservative
+
+---
+
+# LESSON 113
+**Get Off the Couch!**
+
+The old trainer had many ways of moving his stubborn students, and he used them all in a single afternoon. First he tried to **nudge** (v.) the boy toward the pool, a gentle hand at his back, but the child wouldn't budge. When kindness failed, the trainer threatened to **coerce** (v.) him with the loss of his phone privileges, though he hated resorting to threats. It felt almost like **duress** (n.), forcing a child into water through fear rather than desire. His assistant tried a softer approach, attempting to **coax** (v.) the boy in with promises of ice cream after. Nothing worked until his older sister began to **goad** (v.) him, daring him to prove he wasn't scared. That was usually enough to **induce** (v.) action in any stubborn ten-year-old. Later, at home, his mother would **cajole** (v.) him into finishing his homework with a stream of small compliments, each one a little **blandishment** (n.) offered like candy to sweeten an unpleasant task.
+
+**nudge** *(v.)*
+- Meaning: To encourage someone in a gentle manner
+- বাংলা অর্থ: মৃদুভাবে উৎসাহিত করা
+- Feeling/Tone: Gentle, patient, soft
+- Texture: Light, tender
+- Usage: "She nudged him toward applying for the scholarship."
+- Etymology: Norwegian dialect *nugge* — "to push"
+- Synonyms: prod, prompt, encourage
+- Antonyms: discourage, deter
+
+**coerce** *(v.)*
+- Meaning: To persuade someone to do something by using threats
+- বাংলা অর্থ: ভয় দেখিয়ে বাধ্য করা
+- Feeling/Tone: Forceful, uncomfortable, controlling
+- Texture: Hard, pressing
+- Usage: "He was coerced into signing the false confession."
+- Etymology: Latin *coercere* — "to restrain together"
+- Synonyms: force, pressure, compel
+- Antonyms: persuade, invite, request
+
+**duress** *(n.)*
+- Meaning: Forcible restraint, compulsion by threat
+- বাংলা অর্থ: বলপ্রয়োগ, চাপ
+- Feeling/Tone: Tense, oppressive, coercive
+- Texture: Constricting, heavy
+- Usage: "The confession, made under duress, was later thrown out."
+- Etymology: Latin *durus* — "hard"
+- Synonyms: coercion, compulsion, pressure
+- Antonyms: freedom, consent
+
+**coax** *(v.)*
+- Meaning: To use flattery to get someone to do something
+- বাংলা অর্থ: চাটুকারিতা দিয়ে রাজি করানো
+- Feeling/Tone: Sweet, patient, persuasive
+- Texture: Soft, smooth
+- Usage: "She coaxed the cat out from under the bed with treats."
+- Etymology: Middle English *cokes* — "a fool," via "to make a fool of"
+- Synonyms: persuade, wheedle, cajole
+- Antonyms: force, coerce
+
+**goad** *(v.)*
+- Meaning: To provoke someone to get them to do something
+- বাংলা অর্থ: প্ররোচিত করা, খোঁচা দিয়ে উদ্বুদ্ধ করা
+- Feeling/Tone: Sharp, taunting, provoking
+- Texture: Prickly, poking
+- Usage: "His friends goaded him into taking the dare."
+- Etymology: Old English *gad* — "a pointed rod for driving cattle"
+- Synonyms: provoke, prod, incite
+- Antonyms: discourage, dissuade
+
+**induce** *(v.)*
+- Meaning: To persuade someone to do something
+- বাংলা অর্থ: প্ররোচিত করা, উদ্বুদ্ধ করা
+- Feeling/Tone: Neutral, deliberate, causal
+- Texture: Steady, guiding
+- Usage: "The discount induced many customers to buy early."
+- Etymology: Latin *inducere* — "to lead in"
+- Synonyms: persuade, prompt, motivate
+- Antonyms: deter, dissuade
+
+**cajole** *(v.)*
+- Meaning: To persistently coax and flatter someone to get them to do something
+- বাংলা অর্থ: চাটুকারিতা দিয়ে বারবার রাজি করানো
+- Feeling/Tone: Sweet-tongued, persistent, manipulative-lite
+- Texture: Smooth, syrupy
+- Usage: "He cajoled his sister into lending him the car."
+- Etymology: French *cajoler* — "to chatter like a jay"
+- Synonyms: coax, wheedle, sweet-talk
+- Antonyms: bully, coerce
+
+**blandishment** *(n.)*
+- Meaning: Flattery of someone toward getting them to do something
+- বাংলা অর্থ: তোষামোদ, চাটুকারিতা
+- Feeling/Tone: Sweet, flattering, calculated
+- Texture: Silky, sugar-coated
+- Usage: "No amount of blandishment could change her decision."
+- Etymology: Latin *blandiri* — "to flatter"
+- Synonyms: flattery, cajolery, sweet-talk
+- Antonyms: criticism, insult
+
+---
+
+# LESSON 114
+**Is This Confusing?**
+
+The new intern arrived at the archive looking utterly **perplexed** (adj.), unable to make sense of the filing system left behind by his predecessor. The head archivist, by contrast, moved through the chaos with total **equanimity** (n.), unbothered by decades of disorder. Nothing in that dusty room seemed to touch her; she was famously **imperturbable** (adj.), the kind of woman who could find a single missing document in a flooding basement without raising her voice. The intern envied how **poised** (adj.) she remained under pressure, while he felt increasingly likely to **flummox** (v.) himself further with every drawer he opened. By noon he was thoroughly **discombobulated** (adj.), forgetting which shelves he'd already searched. The archivist, sensing his panic, handled the crisis with quiet **aplomb** (n.), calmly sorting through a decade of misfiled records without breaking a sweat. "Don't let it **baffle** (v.) you," she said gently. "Chaos always looks worse before it makes sense."
+
+**perplexed** *(adj.)*
+- Meaning: To be completely confused
+- বাংলা অর্থ: হতবুদ্ধি, বিভ্রান্ত
+- Feeling/Tone: Muddled, uneasy, searching
+- Texture: Tangled, foggy
+- Usage: "She looked perplexed by the strange instructions."
+- Etymology: Latin *perplexus* — "entangled"
+- Synonyms: confused, baffled, bewildered
+- Antonyms: clear, certain, enlightened
+
+**equanimity** *(n.)*
+- Meaning: Calmness and composure
+- বাংলা অর্থ: মানসিক স্থিরতা
+- Feeling/Tone: Serene, steady, unshaken
+- Texture: Smooth, level
+- Usage: "She faced the crisis with remarkable equanimity."
+- Etymology: Latin *aequus* ("equal") + *animus* ("mind")
+- Synonyms: composure, calmness, poise
+- Antonyms: agitation, distress, panic
+
+**imperturbable** *(adj.)*
+- Meaning: Not easily disturbed or upset, calm
+- বাংলা অর্থ: অবিচলিত
+- Feeling/Tone: Unshakable, cool, steady
+- Texture: Solid, still
+- Usage: "The pilot remained imperturbable during the turbulence."
+- Etymology: Latin *im-* ("not") + *perturbare* ("to disturb")
+- Synonyms: composed, unflappable, calm
+- Antonyms: agitated, flustered, anxious
+
+**poised** *(adj.)*
+- Meaning: Confidently composed, not likely to lose one's cool
+- বাংলা অর্থ: সংযত, স্থিরচিত্ত
+- Feeling/Tone: Graceful, self-assured, controlled
+- Texture: Balanced, even
+- Usage: "She stayed poised throughout the tense interview."
+- Etymology: Old French *poiser* — "to weigh"
+- Synonyms: composed, self-possessed, collected
+- Antonyms: flustered, rattled, anxious
+
+**flummox** *(v.)*
+- Meaning: To perplex
+- বাংলা অর্থ: হতবুদ্ধি করা
+- Feeling/Tone: Bewildering, disorienting, mildly comic
+- Texture: Tangled, scrambled
+- Usage: "The riddle flummoxed even the sharpest students."
+- Etymology: Origin obscure, English dialect
+- Synonyms: baffle, confuse, bewilder
+- Antonyms: clarify, enlighten
+
+**discombobulated** *(adj.)*
+- Meaning: Totally confused
+- বাংলা অর্থ: সম্পূর্ণ বিভ্রান্ত
+- Feeling/Tone: Chaotic, scattered, dazed
+- Texture: Jumbled, disordered
+- Usage: "After the long flight, she felt completely discombobulated."
+- Etymology: American English, humorous coinage, 19th century
+- Synonyms: bewildered, confused, disoriented
+- Antonyms: composed, clear-headed
+
+**aplomb** *(n.)*
+- Meaning: Poise and self-assurance
+- বাংলা অর্থ: আত্মবিশ্বাসপূর্ণ স্থিরতা
+- Feeling/Tone: Confident, graceful, unshaken
+- Texture: Smooth, steady
+- Usage: "She handled the tough questions with aplomb."
+- Etymology: French *à plomb* — "according to the plummet, perpendicular"
+- Synonyms: composure, poise, self-assurance
+- Antonyms: awkwardness, nervousness
+
+**baffle** *(v.)*
+- Meaning: To completely perplex
+- বাংলা অর্থ: হতবুদ্ধি করা
+- Feeling/Tone: Puzzling, frustrating, dense
+- Texture: Thick, opaque
+- Usage: "The scientists were baffled by the unusual results."
+- Etymology: Origin uncertain, possibly Scottish, "to disgrace publicly"
+- Synonyms: confound, perplex, mystify
+- Antonyms: clarify, enlighten
+
+---
+
+# LESSON 115
+**Anyone's Guess**
+
+At the observatory, the astronomers had little more than **speculation** (n.) to go on when the strange light first appeared over the ridge. One young researcher offered her own **conjecture** (n.), guessing it might be a comet no one had charted before. The senior scientist, more cautious, refused to work from mere **presumption** (n.), insisting they gather more data before accepting anything as fact. Still, he was willing to **aver** (v.) one thing plainly: the light was moving faster than any known asteroid. A colleague chose instead to simply **submit** (v.) her theory to the group, letting others test it rather than defending it outright. By midnight, the team began to **postulate** (v.) that the object might be an undiscovered moon, though nothing was confirmed. One stubborn intern continued to **posit** (v.) his own wild theory about extraterrestrial visitors, much to the amusement of everyone else in the room.
+
+**speculation** *(n.)*
+- Meaning: A theory made without strong evidence
+- বাংলা অর্থ: অনুমান, জল্পনা
+- Feeling/Tone: Uncertain, curious, tentative
+- Texture: Hazy, unformed
+- Usage: "The rumors were pure speculation with no facts behind them."
+- Etymology: Latin *specula* — "watchtower"
+- Synonyms: conjecture, guesswork, theory
+- Antonyms: fact, certainty, proof
+
+**conjecture** *(n.)*
+- Meaning: A guess based on little evidence or information
+- বাংলা অর্থ: অনুমান, ধারণা
+- Feeling/Tone: Speculative, exploratory, uncertain
+- Texture: Loose, unformed
+- Usage: "Scientists offered conjecture about the planet's origin."
+- Etymology: Latin *conjectura* — "a putting together"
+- Synonyms: speculation, guess, surmise
+- Antonyms: certainty, fact, proof
+
+**presumption** *(n.)*
+- Meaning: Acceptance of something as true
+- বাংলা অর্থ: অনুমিত সত্য, ধরে নেওয়া
+- Feeling/Tone: Assumed, confident, sometimes overreaching
+- Texture: Solid but unverified
+- Usage: "The court operates on the presumption of innocence."
+- Etymology: Latin *praesumere* — "to anticipate"
+- Synonyms: assumption, supposition, belief
+- Antonyms: doubt, uncertainty
+
+**aver** *(v.)*
+- Meaning: To state something emphatically
+- বাংলা অর্থ: দৃঢ়ভাবে বলা
+- Feeling/Tone: Confident, assertive, firm
+- Texture: Solid, weighty
+- Usage: "He averred that he had never seen the document before."
+- Etymology: Latin *ad-* + *verus* ("true")
+- Synonyms: assert, declare, affirm
+- Antonyms: deny, retract
+
+**submit** *(v.)*
+- Meaning: To offer up as a theory
+- বাংলা অর্থ: মতামত হিসেবে উপস্থাপন করা
+- Feeling/Tone: Measured, formal, open to challenge
+- Texture: Offered, tentative
+- Usage: "I submit that the evidence points to a different conclusion."
+- Etymology: Latin *submittere* — "to send under, yield"
+- Synonyms: propose, suggest, posit
+- Antonyms: withdraw, retract
+
+**postulate** *(v.)*
+- Meaning: To come up with a hypothesis or theory
+- বাংলা অর্থ: স্বীকার্য হিসেবে গ্রহণ করা, প্রকল্প স্থাপন করা
+- Feeling/Tone: Analytical, exploratory, formal
+- Texture: Structured, foundational
+- Usage: "Scientists postulated a new theory to explain the anomaly."
+- Etymology: Latin *postulare* — "to demand"
+- Synonyms: hypothesize, theorize, propose
+- Antonyms: disprove, refute
+
+**posit** *(v.)*
+- Meaning: To claim
+- বাংলা অর্থ: দাবি করা, প্রতিপাদন করা
+- Feeling/Tone: Assertive, intellectual, direct
+- Texture: Firm, declarative
+- Usage: "The philosopher posited that free will is an illusion."
+- Etymology: Latin *ponere* — "to place, put"
+- Synonyms: assert, propose, postulate
+- Antonyms: deny, refute
+
+---
+
+# LESSON 116
+**Harmful or Harmless?**
+
+The old apothecary's shop was filled with substances that looked deceptively **innocuous** (adj.), harmless jars of powder lined neatly on the shelf. But he warned his apprentice that some poisons were **insidious** (adj.), doing their damage slowly, invisibly, long before anyone noticed. Not everything in the shop was dangerous, though — a tea made from mountain herbs was famously **salubrious** (adj.), prescribed to weary travelers seeking strength. He claimed it could **revitalize** (v.) even the most exhausted patient within a single week. Other tinctures were far more **pernicious** (adj.), destroying the body quietly while appearing to heal it. A tonic on the top shelf was labeled **restorative** (adj.), promising renewed vigor to anyone who took it in small doses. But the apprentice learned quickly that a few of the darker bottles were simply **deleterious** (adj.), capable of undoing a person's health entirely if mishandled.
+
+**innocuous** *(adj.)*
+- Meaning: Not harmful
+- বাংলা অর্থ: নিরাপদ, ক্ষতিকর নয়
+- Feeling/Tone: Mild, harmless, unthreatening
+- Texture: Soft, gentle
+- Usage: "His innocuous comment was misread as an insult."
+- Etymology: Latin *innocuus* — "not injurious"
+- Synonyms: harmless, benign, safe
+- Antonyms: harmful, noxious, dangerous
+
+**insidious** *(adj.)*
+- Meaning: Harmful in a subtle way
+- বাংলা অর্থ: গোপনে ক্ষতিকর
+- Feeling/Tone: Sneaky, slow, dangerous
+- Texture: Creeping, invisible
+- Usage: "The disease spread in an insidious manner, unnoticed for years."
+- Etymology: Latin *insidiae* — "ambush"
+- Synonyms: pernicious, deceptive, treacherous
+- Antonyms: obvious, harmless, benign
+
+**salubrious** *(adj.)*
+- Meaning: Promoting health
+- বাংলা অর্থ: স্বাস্থ্যকর
+- Feeling/Tone: Fresh, healing, invigorating
+- Texture: Clean, crisp
+- Usage: "The salubrious mountain air helped him recover quickly."
+- Etymology: Latin *salus* — "health"
+- Synonyms: healthy, wholesome, beneficial
+- Antonyms: unhealthy, harmful, noxious
+
+**revitalize** *(v.)*
+- Meaning: To bring new life to or inject with life
+- বাংলা অর্থ: নতুন প্রাণ সঞ্চার করা
+- Feeling/Tone: Renewing, energizing, hopeful
+- Texture: Fresh, restorative
+- Usage: "The vacation revitalized her after months of stress."
+- Etymology: Latin *re-* ("again") + *vita* ("life")
+- Synonyms: rejuvenate, refresh, restore
+- Antonyms: weaken, drain, exhaust
+
+**pernicious** *(adj.)*
+- Meaning: Subtly destructive
+- বাংলা অর্থ: গোপনে ধ্বংসাত্মক
+- Feeling/Tone: Corrosive, dangerous, gradual
+- Texture: Rotting, slow-acting
+- Usage: "The pernicious effects of the policy took years to surface."
+- Etymology: Latin *perniciosus* — "destructive"
+- Synonyms: insidious, harmful, destructive
+- Antonyms: beneficial, harmless, salutary
+
+**restorative** *(adj.)*
+- Meaning: Providing energy
+- বাংলা অর্থ: শক্তি পুনরুদ্ধারকারী
+- Feeling/Tone: Healing, replenishing, calming
+- Texture: Soothing, revitalizing
+- Usage: "A restorative sleep left her ready for the day."
+- Etymology: Latin *restaurare* — "to rebuild"
+- Synonyms: rejuvenating, healing, reviving
+- Antonyms: draining, depleting
+
+**deleterious** *(adj.)*
+- Meaning: Harmful, destructive
+- বাংলা অর্থ: ক্ষতিকর, ধ্বংসাত্মক
+- Feeling/Tone: Damaging, serious, cautionary
+- Texture: Corrosive, harsh
+- Usage: "Smoking has deleterious effects on lung health."
+- Etymology: Greek *deleterios* — "noxious"
+- Synonyms: harmful, damaging, injurious
+- Antonyms: beneficial, salubrious, wholesome
+
+---
+
+# LESSON 117
+**The Anger Meter**
+
+The referee's bad call sent the stadium into an uproar. Fans grew **indignant** (adj.), certain that a grave injustice had just been committed against their team. The coach, standing at the sideline, visibly began to **bristle** (v.), his shoulders squared as though ready for a fight. By halftime, players on the bench looked openly **disgruntled** (adj.), muttering about the unfairness of it all. The team captain, further insulted by a second bad call, became genuinely **incensed** (adj.), his face red with fury. A minor foul later in the game was enough to **peeve** (v.) the opposing coach, who threw his clipboard to the ground. Even the mascot seemed **piqued** (adj.), pacing the sideline with unusual stiffness. By the final whistle, the losing coach was outright **irate** (adj.), storming off before the customary handshake. In the locker room afterward, his **wrath** (n.) was legendary, remembered by players for years as the night the coach nearly put his fist through a wall.
+
+**indignant** *(adj.)*
+- Meaning: Angry over perceived injustice
+- বাংলা অর্থ: ন্যায়ানুভূতিতে আহত হয়ে ক্রুদ্ধ
+- Feeling/Tone: Righteous, wounded, sharp
+- Texture: Tense, upright
+- Usage: "She was indignant at being blamed for someone else's mistake."
+- Etymology: Latin *indignari* — "to regard as unworthy"
+- Synonyms: resentful, outraged, offended
+- Antonyms: content, pleased
+
+**bristle** *(v.)*
+- Meaning: To react angrily, typically by standing more erect and with the chest out
+- বাংলা অর্থ: রাগে খাড়া হয়ে ওঠা
+- Feeling/Tone: Defensive, tense, reflexive
+- Texture: Prickly, stiffened
+- Usage: "He bristled at the suggestion that he was wrong."
+- Etymology: Old English *byrst* — "stiff hair"
+- Synonyms: seethe, stiffen, flare up
+- Antonyms: relax, soften
+
+**disgruntled** *(adj.)*
+- Meaning: Aggrieved, dissatisfied
+- বাংলা অর্থ: অসন্তুষ্ট
+- Feeling/Tone: Sullen, resentful, weary
+- Texture: Heavy, grumbling
+- Usage: "The disgruntled employees demanded better working conditions."
+- Etymology: *dis-* + archaic *gruntle* — "to grumble"
+- Synonyms: dissatisfied, resentful, discontented
+- Antonyms: content, satisfied, pleased
+
+**incensed** *(adj.)*
+- Meaning: Enraged
+- বাংলা অর্থ: প্রচণ্ড ক্রুদ্ধ
+- Feeling/Tone: Burning, furious, intense
+- Texture: Hot, explosive
+- Usage: "She was incensed by his blatant dishonesty."
+- Etymology: Latin *incendere* — "to set on fire"
+- Synonyms: furious, enraged, irate
+- Antonyms: calm, pleased
+
+**peeve** *(v.)*
+- Meaning: To annoy, irk
+- বাংলা অর্থ: বিরক্ত করা
+- Feeling/Tone: Mildly irritating, petty
+- Texture: Small, grating
+- Usage: "It peeves me when people chew loudly."
+- Etymology: Back-formation from *peevish* (origin uncertain)
+- Synonyms: irritate, annoy, irk
+- Antonyms: please, soothe
+
+**piqued** *(adj.)*
+- Meaning: Irritated
+- বাংলা অর্থ: বিরক্ত, ক্ষুব্ধ
+- Feeling/Tone: Sharp, stung, mildly offended
+- Texture: Prickling, pointed
+- Usage: "He felt piqued by her offhand remark."
+- Etymology: French *piquer* — "to prick, sting"
+- Synonyms: irritated, annoyed, nettled
+- Antonyms: pleased, gratified
+
+**irate** *(adj.)*
+- Meaning: Furious
+- বাংলা অর্থ: অত্যন্ত ক্রুদ্ধ
+- Feeling/Tone: Explosive, loud, unrestrained
+- Texture: Hot, jagged
+- Usage: "The irate customer demanded to speak with the manager."
+- Etymology: Latin *iratus* — "angry" (from *ira*, "anger")
+- Synonyms: furious, incensed, livid
+- Antonyms: calm, placid
+
+**wrath** *(n.)*
+- Meaning: Extreme anger
+- বাংলা অর্থ: প্রচণ্ড ক্রোধ
+- Feeling/Tone: Grand, forceful, almost mythic
+- Texture: Heavy, thunderous
+- Usage: "The villagers feared the king's wrath."
+- Etymology: Old English *wræððu* — "anger"
+- Synonyms: fury, rage, ire
+- Antonyms: calm, serenity
+
+---
+
+# LESSON 118
+**From Cowardly to Courageous**
+
+The old war stories always began the same way — with a handful of **intrepid** (adj.) soldiers marching into terrain no map had ever charted. Their enemy, a **formidable** (adj.) army twice their size, waited beyond the ridge. Among the ranks, though, was one officer whispered about with contempt, a man whose **craven** (adj.) retreat during the last battle had cost dozens of lives. His replacement, by contrast, remained **undaunted** (adj.) even as cannon fire lit up the horizon. A younger recruit, barely eighteen, fought with a **plucky** (adj.) spirit that impressed even the generals. Legends grew of one **valorous** (adj.) captain who carried a wounded comrade through enemy lines under heavy fire. Not every soldier could summon such nerve — some, quietly **pusillanimous** (adj.), found reasons to fall behind whenever danger neared. Yet by the war's end, the very army that had once frightened them all became known instead as **redoubtable** (adj.), an enemy any nation would think twice before crossing again.
+
+**intrepid** *(adj.)*
+- Meaning: Fearless
+- বাংলা অর্থ: নির্ভীক
+- Feeling/Tone: Bold, brave, unshaken
+- Texture: Firm, unwavering
+- Usage: "The intrepid climbers reached the summit despite the storm."
+- Etymology: Latin *in-* ("not") + *trepidus* ("alarmed")
+- Synonyms: fearless, bold, valiant
+- Antonyms: cowardly, timid, craven
+
+**formidable** *(adj.)*
+- Meaning: Intimidating, arousing fear
+- বাংলা অর্থ: শক্তিশালী, ভীতিপ্রদ
+- Feeling/Tone: Imposing, powerful, respected
+- Texture: Massive, solid
+- Usage: "She faced a formidable opponent in the final round."
+- Etymology: Latin *formidare* — "to fear"
+- Synonyms: daunting, intimidating, redoubtable
+- Antonyms: weak, unimpressive
+
+**craven** *(adj.)*
+- Meaning: Cowardly and despicable
+- বাংলা অর্থ: কাপুরুষ ও ঘৃণ্য
+- Feeling/Tone: Shameful, contemptible, weak
+- Texture: Shrinking, low
+- Usage: "His craven betrayal of his friends shocked everyone."
+- Etymology: French *cravanter* — "to crush, overwhelm"
+- Synonyms: cowardly, pusillanimous, spineless
+- Antonyms: brave, valiant, intrepid
+
+**undaunted** *(adj.)*
+- Meaning: Not intimidated
+- বাংলা অর্থ: অকুতোভয়
+- Feeling/Tone: Resolute, steady, defiant
+- Texture: Firm, unbroken
+- Usage: "Undaunted by the setback, she tried again."
+- Etymology: *un-* + *daunt* (Latin *domitare*, "to tame")
+- Synonyms: fearless, unafraid, resolute
+- Antonyms: intimidated, cowed, daunted
+
+**plucky** *(adj.)*
+- Meaning: Brave in a spirited manner
+- বাংলা অর্থ: সাহসী ও উদ্যমী
+- Feeling/Tone: Spirited, feisty, endearing
+- Texture: Light, energetic
+- Usage: "The plucky underdog team upset the favorites."
+- Etymology: From *pluck* — "courage, spirit" (literally "to pull")
+- Synonyms: spirited, gutsy, feisty
+- Antonyms: timid, cowardly
+
+**valorous** *(adj.)*
+- Meaning: Possessing or acting with bold bravery
+- বাংলা অর্থ: বীরত্বপূর্ণ
+- Feeling/Tone: Heroic, noble, grand
+- Texture: Solid, honorable
+- Usage: "The soldier's valorous actions earned him a medal."
+- Etymology: Latin *valor* — "worth, strength"
+- Synonyms: brave, heroic, courageous
+- Antonyms: cowardly, craven
+
+**pusillanimous** *(adj.)*
+- Meaning: Lacking courage
+- বাংলা অর্থ: ভীরু, সাহসহীন
+- Feeling/Tone: Weak, timid, shrinking
+- Texture: Small, faint-hearted
+- Usage: "His pusillanimous refusal to speak up disappointed his team."
+- Etymology: Latin *pusillus* ("very small") + *animus* ("spirit")
+- Synonyms: cowardly, timid, craven
+- Antonyms: courageous, valorous, intrepid
+
+**redoubtable** *(adj.)*
+- Meaning: Formidable
+- বাংলা অর্থ: ভীতিপ্রদ ও শ্রদ্ধেয়
+- Feeling/Tone: Respected, imposing, worthy of caution
+- Texture: Solid, weighty
+- Usage: "The redoubtable general had never lost a battle."
+- Etymology: Old French *redouter* — "to fear greatly"
+- Synonyms: formidable, imposing, fearsome
+- Antonyms: weak, unimpressive
+
+---
+
+# LESSON 119
+**I Have an Official Announcement to Make**
+
+The kingdom awoke one morning to find the royal **edict** (n.) nailed to every town gate, its seal unmistakable. It announced that the old grain tax, long resented, would be **abrogated** (v.) by order of the crown. Messengers were sent to **promulgate** (v.) the news across every village before nightfall, so that no citizen could claim ignorance. Within the week, the council moved to formally **enact** (v.) a replacement law, one meant to ease the burden on farmers. A rival faction protested, demanding the king **annul** (v.) the entire decree before it ever took effect. But the king, unmoved, insisted his word was **fiat** (n.) enough — no council vote could undo what he alone had ordered. Still, whispers spread that within a year, the same law might quietly be made to **rescind** (v.), the way so many royal promises before it had been.
+
+**edict** *(n.)*
+- Meaning: A decree or proclamation
+- বাংলা অর্থ: রাজাদেশ, ফরমান
+- Feeling/Tone: Authoritative, formal, absolute
+- Texture: Carved, official
+- Usage: "The king's edict was posted in every village square."
+- Etymology: Latin *edicere* — "to declare"
+- Synonyms: decree, proclamation, mandate
+- Antonyms: suggestion, request
+
+**abrogate** *(v.)*
+- Meaning: To cancel or overturn a law (used in formal contexts)
+- বাংলা অর্থ: বাতিল করা (আনুষ্ঠানিকভাবে)
+- Feeling/Tone: Formal, decisive, weighty
+- Texture: Solid, official
+- Antonyms: enact, establish
+- Usage: "The treaty was abrogated after years of violations."
+- Etymology: Latin *abrogare* — "to repeal a law"
+- Synonyms: repeal, revoke, annul
+
+**promulgate** *(v.)*
+- Meaning: To declare officially or make widely known
+- বাংলা অর্থ: প্রকাশ্যে ঘোষণা করা
+- Feeling/Tone: Formal, public, declarative
+- Texture: Wide-reaching, open
+- Usage: "The new regulations were promulgated to all employees."
+- Etymology: Latin *promulgare* — "to make public"
+- Synonyms: announce, proclaim, publicize
+- Antonyms: conceal, suppress
+
+**enact** *(v.)*
+- Meaning: To make into law
+- বাংলা অর্থ: আইনে পরিণত করা
+- Feeling/Tone: Formal, constructive, decisive
+- Texture: Solid, structured
+- Usage: "Parliament enacted the new legislation last spring."
+- Etymology: *en-* + *act* (Latin *agere*, "to do")
+- Synonyms: legislate, pass, institute
+- Antonyms: repeal, abolish
+
+**annul** *(v.)*
+- Meaning: To overturn, declare invalid
+- বাংলা অর্থ: বাতিল ঘোষণা করা
+- Feeling/Tone: Final, formal, erasing
+- Texture: Voided, cancelled
+- Usage: "The marriage was annulled after just two months."
+- Etymology: Latin *annullare* — "to make into nothing"
+- Synonyms: nullify, void, invalidate
+- Antonyms: validate, enact
+
+**fiat** *(n.)*
+- Meaning: An official order by a person in a position of power, or a decree
+- বাংলা অর্থ: আদেশ, হুকুম
+- Feeling/Tone: Absolute, commanding, unquestionable
+- Texture: Hard, final
+- Usage: "The reforms were introduced by fiat, without debate."
+- Etymology: Latin *fiat* — "let it be done"
+- Synonyms: decree, edict, mandate
+- Antonyms: request, suggestion
+
+**rescind** *(v.)*
+- Meaning: To revoke, cancel, repeal
+- বাংলা অর্থ: প্রত্যাহার করা, বাতিল করা
+- Feeling/Tone: Reversing, formal, deliberate
+- Texture: Undone, withdrawn
+- Usage: "The company rescinded the job offer after the background check."
+- Etymology: Latin *rescindere* — "to cut off, annul"
+- Synonyms: revoke, repeal, annul
+- Antonyms: enact, uphold
+
+---
+
+# LESSON 120
+**Hold On to Your Wits! From Dull to Sharp**
+
+The chess tutor had seen every kind of student pass through his study. Some, like the boy in the front row, seemed almost **obtuse** (adj.), staring blankly at the board no matter how many times a move was explained. Others found their calling elsewhere; the girl beside him had no talent for chess, but her true **niche** (n.) was music, where her ear caught every subtle note. The tutor's prize pupil, though, was remarkably **astute** (adj.), reading her opponent's strategy three moves before it unfolded. He often praised her sharp **acumen** (n.), a gift for judgment that no textbook could teach. Watching her play felt like watching someone **shrewd** (adj.) beyond her years, calculating risk with unusual precision. Her mind, the tutor liked to say, was simply **acute** (adj.), cutting straight through confusion to the heart of any problem. It was no surprise, then, that chess had become her true **bailiwick** (n.), the one arena where her instincts never failed her.
+
+**obtuse** *(adj.)*
+- Meaning: Unintelligent, not able to grasp ideas or concepts easily
+- বাংলা অর্থ: স্থূলবুদ্ধি
+- Feeling/Tone: Dull, frustrating, slow
+- Texture: Blunt, heavy
+- Usage: "He was obtuse about even the simplest instructions."
+- Etymology: Latin *obtusus* — "blunted"
+- Synonyms: dense, slow-witted, dull
+- Antonyms: astute, sharp, acute
+
+**niche** *(n.)*
+- Meaning: One's special area of expertise
+- বাংলা অর্থ: নিজস্ব দক্ষতার ক্ষেত্র
+- Feeling/Tone: Comfortable, fitting, personal
+- Texture: Snug, defined
+- Usage: "She finally found her niche in graphic design."
+- Etymology: French *nicher* — "to make a nest"
+- Synonyms: specialty, forte, calling
+- Antonyms: generalist field
+
+**astute** *(adj.)*
+- Meaning: Having a sharp intelligence that allows one to get a quick grasp of situations
+- বাংলা অর্থ: বিচক্ষণ, তীক্ষ্ণবুদ্ধি
+- Feeling/Tone: Sharp, perceptive, confident
+- Texture: Precise, quick
+- Usage: "Her astute observation solved the case instantly."
+- Etymology: Latin *astutus* — "crafty"
+- Synonyms: shrewd, perceptive, sharp
+- Antonyms: obtuse, naive, dense
+
+**acumen** *(n.)*
+- Meaning: Good judgment in a specific context
+- বাংলা অর্থ: বিচক্ষণতা, প্রজ্ঞা
+- Feeling/Tone: Confident, seasoned, valuable
+- Texture: Sharp, refined
+- Usage: "His business acumen helped the company thrive."
+- Etymology: Latin *acuere* — "to sharpen"
+- Synonyms: shrewdness, insight, discernment
+- Antonyms: ineptitude, foolishness
+
+**shrewd** *(adj.)*
+- Meaning: Having keen judgment
+- বাংলা অর্থ: ধূর্ত ও বিচক্ষণ
+- Feeling/Tone: Clever, calculating, sharp
+- Texture: Precise, cutting
+- Usage: "The shrewd negotiator secured an excellent deal."
+- Etymology: Middle English *shrewed* — "wicked, cunning"
+- Synonyms: astute, sharp, canny
+- Antonyms: naive, foolish, obtuse
+
+**acute** *(adj.)*
+- Meaning: Extremely sharp and insightful
+- বাংলা অর্থ: তীক্ষ্ণ, প্রখর
+- Feeling/Tone: Piercing, keen, precise
+- Texture: Sharp, focused
+- Usage: "Her acute understanding of the market impressed investors."
+- Etymology: Latin *acutus* — "sharpened"
+- Synonyms: sharp, keen, perceptive
+- Antonyms: obtuse, dull
+
+**bailiwick** *(n.)*
+- Meaning: One's area of learning or knowledge
+- বাংলা অর্থ: নিজস্ব জ্ঞান বা দক্ষতার পরিধি
+- Feeling/Tone: Familiar, personal, confident
+- Texture: Defined, owned
+- Usage: "Astrophysics is simply not his bailiwick."
+- Etymology: Middle English *bailli* ("bailiff") + *wick* ("district")
+- Synonyms: niche, domain, specialty
+- Antonyms: unfamiliar territory
